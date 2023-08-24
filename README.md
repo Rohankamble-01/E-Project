@@ -1,2 +1,2 @@
-# E-Project
-E-commerce project repo
+# online-shop
+Online Shop
